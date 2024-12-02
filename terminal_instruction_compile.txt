@@ -1,0 +1,1 @@
+pyinstaller --onefile --name="Comparador" --windowed --icon=icon.ico run.py                 
